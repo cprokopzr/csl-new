@@ -153,7 +153,7 @@ GEM
     parser (3.0.1.1)
       ast (~> 2.4.1)
     public_suffix (4.0.6)
-    puma (5.3.2)
+    puma (5.4.0)
       nio4r (~> 2.0)
     racc (1.5.2)
     rack (2.2.3)
@@ -290,8 +290,8 @@ DEPENDENCIES
   htmlentities
   iso_country_codes
   jbuilder (~> 2.11)
-  listen (>= 3.0.5, < 3.7)
-  puma (~> 5.3)
+  listen (>= 3.0.5, < 3.6)
+  puma (~> 5.4)
   rails
   rspec-rails (~> 5.0)
   rubocop-rails_config
